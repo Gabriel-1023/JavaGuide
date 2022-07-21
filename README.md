@@ -51,7 +51,7 @@
 
 **重要知识点详解** ：
 
-- [为什么 Java 中只有值传递？](docs/java/basis/why-there-only-value-passing-in-java.md)
+- [√ 为什么 Java 中只有值传递？](docs/java/basis/why-there-only-value-passing-in-java.md)
 - [什么是反射机制？反射机制的应用场景有哪些？](docs/java/basis/reflection.md)
 - [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/proxy.md)
 - [常见的 IO 模型有哪些？Java 中的 BIO、NIO、AIO 有啥区别?](docs/java/basis/io.md)
@@ -422,16 +422,4 @@ Dubbo 是一款国产的 RPC 框架，由阿里开源。相关阅读：
 - [入职培训一个月后的感受](https://javaguide.cn/about-the-author/feelings-after-one-month-of-induction-training/)
 - [从毕业到入职半年的感受](https://javaguide.cn/about-the-author/feelings-of-half-a-year-from-graduation-to-entry/)
 - [某培训机构盗我文章做成视频还上了B站热门](https://javaguide.cn/about-the-author/my-article-was-stolen-and-made-into-video-and-it-became-popular/)
-
-## 公众号
-
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
-
-**《Java面试突击》:** 由本文档衍生的专为面试而生的《Java面试突击》PDF 版本[公众号](#公众号)后台回复 **"面试突击"** 即可免费领取！
-
-![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
-
-![](https://img-blog.csdnimg.cn/7af97d4dccdb4123a541f336a107ca86.png)
-
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a2d826918a44bcbaa8d9272db3ad7d2~tplv-k3u1fbpfcp-watermark.image)
 
