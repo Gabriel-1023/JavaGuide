@@ -11,7 +11,7 @@
 
 **重要知识点详解** ：
 
-- [√ 为什么 Java 中只有值传递？](docs/java/basis/why-there-only-value-passing-in-java.md)
+- 7.22 √[为什么 Java 中只有值传递？](docs/java/basis/why-there-only-value-passing-in-java.md)
 - [什么是反射机制？反射机制的应用场景有哪些？](docs/java/basis/reflection.md)
 - [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/proxy.md)
 - [常见的 IO 模型有哪些？Java 中的 BIO、NIO、AIO 有啥区别?](docs/java/basis/io.md)
@@ -36,7 +36,7 @@
 
 **知识点/面试题** : (必看 :+1:)
 
-1. [Java 并发常见知识点&面试题总结（基础篇）](docs/java/concurrent/java-concurrent-questions-01.md)
+1. 7.22 √[Java 并发常见知识点&面试题总结（基础篇）](docs/java/concurrent/java-concurrent-questions-01.md)
 2. [Java 并发常见知识点&面试题总结（进阶篇）](docs/java/concurrent/java-concurrent-questions-02.md)
 
 **重要知识点详解** ：
