@@ -123,7 +123,12 @@ public interface RandomAccess {
 
 ### 说一说 ArrayList 的扩容机制吧
 
-详见笔主的这篇文章:[通过源码一步一步分析 ArrayList 扩容机制](https://snailclimb.gitee.io/javaguide/#/docs/java/collection/arraylist-source-code?id=_2-arraylist-%e6%a0%b8%e5%bf%83%e6%ba%90%e7%a0%81%e8%a7%a3%e8%af%bb)
+以add()为例
+- add() 方法内调用 ensureCapacityInternal(size + 1) 确保 size+1 的空间
+- ensureCapacityInternal(minCapacity) 方法先判断elementData是否为空，为空则从默认大小和minCapacity中选最大值，调用 ensureExplicitCapacity(minCapacity)
+- minCapacity大于当前elementData大小，则执行grow()
+
+![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/8/1/16c4c6e6c655c0d5~tplv-t2oaga2asx-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ## Collection 子接口之 Set
 
