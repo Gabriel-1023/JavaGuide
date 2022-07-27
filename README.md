@@ -15,7 +15,7 @@
 - 7.27 √[什么是反射机制？反射机制的应用场景有哪些？](docs/java/basis/reflection.md)
 - [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/proxy.md)
 - 7.27 √[常见的 IO 模型有哪些？Java 中的 BIO（阻塞）、NIO（非阻塞/多路复用）、AIO（异步） 有啥区别?](docs/java/basis/io.md)
-- [BigDecimal解决浮点数运算精度丢失问题](docs/java/basis/bigdecimal.md)
+- 7.27 √[BigDecimal解决浮点数运算精度丢失问题](docs/java/basis/bigdecimal.md)
 - **[泛型连环炮](docs/java/basis/generics.md)**
 
 ### 集合
