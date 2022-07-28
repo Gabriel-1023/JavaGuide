@@ -55,7 +55,7 @@
 
 JVM 这部分内容主要参考 [JVM 虚拟机规范-Java8 ](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html) 和周志明老师的[《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) （强烈建议阅读多遍！）。
 
-1. **[Java 内存区域](https://javaguide.cn/java/jvm/jvm-garbage-collection/)**
+1. 7.28 对象创建 [Java 内存区域](https://javaguide.cn/java/jvm/jvm-garbage-collection/)
 2. **[JVM 垃圾回收](https://javaguide.cn/java/jvm/jvm-garbage-collection/)**
 3. [JDK 监控和故障处理工具](https://javaguide.cn/java/jvm/jdk-monitoring-and-troubleshooting-tools/)
 4. [类文件结构](https://javaguide.cn/java/jvm/class-file-structure/)
